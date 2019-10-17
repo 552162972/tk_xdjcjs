@@ -6,7 +6,9 @@
 
 界面如下
 
-![image](https://github.com/552162972/tk_xdjcjs/edit/master/ui.png)
+![.](https://github.com/552162972/tk_xdjcjs/blob/master/ui.png)
+
+界面创建了两个容器，左边用来输出结果，右边用来输入数据
 
 
 
