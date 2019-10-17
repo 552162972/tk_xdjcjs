@@ -10,8 +10,6 @@ from PIL import Image
 import numpy as np
 
 
-import tkinter as tk
-
 t = Tk()
 # t = Tk()
 t.title('现代检测技术v1 ') 
