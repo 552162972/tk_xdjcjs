@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 from tkinter import *
@@ -14,7 +14,7 @@ import tkinter as tk
 
 t = Tk()
 # t = Tk()
-t.title('my window') 
+t.title('现代检测技术v1 ') 
 #创建两个frame容器
 frmL_data = Frame(width=360, height=480,)
 frmL_result = Frame(width=520, height=480)
