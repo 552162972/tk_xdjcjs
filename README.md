@@ -6,7 +6,7 @@
 
 界面如下
 
-![image](https://github.com/552162972/tk_xdjcjs/edit/master/UI.jpg)
+![image](https://github.com/552162972/tk_xdjcjs/edit/master/ui.png)
 
 
 
